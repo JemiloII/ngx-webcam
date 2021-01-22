@@ -1,9 +1,11 @@
 {
   "name": "ngx-webcam",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "author": "basst314",
   "contributors": [
-    "davidshen84"
+    "davidshen84",
+    "jemiloii",
+    "yamaha252"
   ],
   "license": "MIT",
   "repository": {
